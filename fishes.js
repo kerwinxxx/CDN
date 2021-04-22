@@ -1,4 +1,3 @@
-fish();
 function fish() {
     return (
       $("#footer-wrap").css({
@@ -18,3 +17,5 @@ function fish() {
       this
     );
   }
+
+fish();
