@@ -1,4 +1,4 @@
-function fish() {
+function fishes() {
     return (
       $("#footer-wrap").css({
         position: "absolute",
@@ -18,4 +18,4 @@ function fish() {
     );
   }
 
-fish();
+fishes();
